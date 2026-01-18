@@ -2,6 +2,8 @@
 "A program to make a copy of n numbers of h"
 
 def minOperations(n):
+    "Function to make the operations"
+
     if n < 2:
         return 0
 
